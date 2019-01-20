@@ -11883,4 +11883,5 @@ Bryan Romero
 - [Roopa Madihally](https://github.com/roopabdr)
 - [JR Cook](https://github.com/Eldorian)
 - [jhkim] (https://github.com/capefeather)
+- [NikoKron]
 - [Shenyu](https://github.com/lishenyu16)
